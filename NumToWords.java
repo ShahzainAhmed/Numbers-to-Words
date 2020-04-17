@@ -343,3 +343,4 @@ public class NumToWords{
     }
 }
 
+// Output: If user gives "86" then the output will be, Eighty Six. 
